@@ -25,7 +25,7 @@ A **Multilayer Perceptron (MLP)** architecture is used for the regression task:
 - **Regression Metrics**: MSE, RMSE, MAE, and additional evaluation metrics
 - **Error Analysis**: Residual plots and error distribution analysis
 
-📌 **Colab Notebook**: 
+📌 **Colab Notebook**: https://github.com/mannnada/Deep-Learning-Expriments/blob/main/README.md
 ---
 
 ## 2. Classification: Wildfire Prediction
