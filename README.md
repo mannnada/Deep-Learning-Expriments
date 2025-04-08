@@ -43,7 +43,7 @@ A **Multilayer Perceptron (MLP)** is used for binary classification:
 - **Hidden Layers**: Multiple Dense layers with ReLU activation, Dropout, and BatchNormalization
 - **Output Layer**: A single neuron with **sigmoid activation** for binary classification
 
-📌 **Colab Notebook**: 
+📌 **Colab Notebook**: https://colab.research.google.com/drive/1122KXteYdByTKDuCWmNCznpHH2uofs0E?usp=sharing
 ---
 
 ## 3. Image Classification: Fashion MNIST
