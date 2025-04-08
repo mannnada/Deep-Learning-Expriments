@@ -66,7 +66,7 @@ A **Convolutional Neural Network (CNN)** is used for image classification:
 - **ROC & PR Curves**: Performance evaluation using Receiver Operating Characteristic and Precision-Recall curves
 - **Error Analysis**: Per-class analysis with sample misclassified images
 
-📌 **Colab Notebook**: 
+📌 **Colab Notebook**: https://colab.research.google.com/drive/14FGNQMFkZZqgXxmhJmzMqMPLBCG4tgQJ?usp=sharing
 
 📺 **YouTube Walkthrough**: 
 
