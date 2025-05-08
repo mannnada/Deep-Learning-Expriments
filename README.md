@@ -68,7 +68,7 @@ A **Convolutional Neural Network (CNN)** is used for image classification:
 
 📌 **Colab Notebook**: https://colab.research.google.com/drive/14FGNQMFkZZqgXxmhJmzMqMPLBCG4tgQJ?usp=sharing
 
-📺 **YouTube Walkthrough**: 
+📺 **YouTube Walkthrough**: https://youtu.be/2lIMsDVkibY
 
 ---
 
